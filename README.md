@@ -107,8 +107,12 @@ The final product is an interactive **Streamlit dashboard** for 30-day hourly pr
 ![Forecast Table](screencapture-localhost-8501-2025-07-13-16_19_25%20bot.PNG)
 
 ---
-
 <h3 align="center">By</h3> 
+
+<h4 align="center">Sucharita Lakkavajhala</h4>
+<h4 align="center">Shyam Kumar Kampelly</h4>
+<h4 align="center">Uday Kumar Barigela</h4>
+<h4 align="center">Pravalika Challuri</h4>
 
 ---
 
